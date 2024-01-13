@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgoit_wallet_app_03_frontend=self.webpackChunkgoit_wallet_app_03_frontend||[]).push([[872],{3872:(t,a,e)=>{e.a(t,(async(t,n)=>{try{e.r(a),e.d(a,{default:()=>l});var s=e(3266),_=e(184),c=t([s]);s=(c.then?(await c)():c)[0];const l=()=>(0,_.jsx)(s.Z,{});n()}catch(l){n(l)}}))}}]);
-//# sourceMappingURL=872.938bffd1.chunk.js.map
