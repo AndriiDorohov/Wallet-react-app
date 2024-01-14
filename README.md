@@ -12,7 +12,7 @@
 
 <div style="position: relative; width: 200px; overflow: hidden; border-radius: 8px;">
   <a href="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png" target="_blank">
-    <img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png" alt="Image" width="100%" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
+    <img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png" alt="Image" width="50%" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: 0.3s;">
   </a>
 </div>
 
