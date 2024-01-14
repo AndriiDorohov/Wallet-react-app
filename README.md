@@ -8,7 +8,7 @@
 
 [<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_01.png" width="200">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_01.png)
 [<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_02.png" width="200">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_02.png)
-[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png" width="200">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png)
+[<img style="position: relative; width: 200px; overflow: hidden; border-radius: 8px;" src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png" width="200">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png)
 
 <div style="position: relative; width: 200px; overflow: hidden; border-radius: 8px;">
   <a href="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png" target="_blank">
