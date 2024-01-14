@@ -6,6 +6,11 @@
     <br>
 </p>
 
+[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_01.png" width="200">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_01.png)
+[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_02.png" width="200">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_02.png)
+[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png" width="200">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png)
+[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png" width="200">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png)
+
 ## About
 
 This project was developed by a team during their training at the IT school GoIt. It serves as a
