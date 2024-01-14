@@ -1,3 +1,15 @@
+## About
+
+This project was developed by a team during their training at the IT school GoIt. It serves as a
+practical application of the skills and knowledge gained during the course. Feel free to explore and
+contribute to make it even better!
+
+## Backend Repository
+
+The Wallet Frontend works seamlessly with its counterpart, the
+[Wallet Backend](https://github.com/AndriiDorohov/backend-Wallet-App). Make sure to explore the
+backend repository to gain a comprehensive understanding of the entire system.
+
 <p align="center">
     <a href="https://github.com/AndriiDorohov" target="_blank">
         <img src="https://github.com/AndriiDorohov/backend-Wallet-App/blob/main/images/project-logo.png" height="100px">
