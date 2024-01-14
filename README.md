@@ -6,10 +6,10 @@
     <br>
 </p>
 
-[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_01.png" width="40%">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_01.png)
-[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_02.png" width="40%">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_02.png)
-[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png" width="40%">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png)
-[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png" width="40%">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png)
+[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_01.png" width="45%">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_01.png)
+[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_02.png" width="45%">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_02.png)
+[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png" width="45%">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_03.png)
+[<img src="https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png" width="45%">](https://github.com/AndriiDorohov/Wallet-react-app/blob/main/src/images/preview_04.png)
 
 ## About
 
